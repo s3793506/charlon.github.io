@@ -45,10 +45,10 @@ In all of the places where you're supposed to fill your information you'll find 
     <div class="header__text">
         <h1 class="heading-primary">
         <!-- Replace the following name with your name -->
-        <span>Syed Ali Hussnain</span>
+        <span>Charlon Cachuela</span>
         </h1>
         <!-- Put a small paragraph about yourself -->
-        <p>A Web Developer based in Lahore, Pakistan.</p>
+        <p>IT professional based in Brisbane, Australia.</p>
         <a href="#contact" class="btn btn--pink">Get in touch</a>
     </div>
 </div>
@@ -76,7 +76,7 @@ Each div with class `work__box` represents a project, replace the contents of th
         <a href="#" class="link__text">
         Visit Site <span>&rarr;</span>
         </a> 
-        <a href="https://github.com/nisarhassan12/portfolio" target="_blank">
+        <a href="https://github.com/charlon.github.io" target="_blank">
         <img src="./images/github.svg" class="work__code" alt="GitHub">
         </a>
     </div>
@@ -131,10 +131,7 @@ For changing the screenshot:
             <div class="about__text">
                 <!-- Replace the below paragraph with info about yourself -->
                 <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos id
-                nostrum illo harum blanditiis, tenetur eum suscipit cupiditate
-                in vel, ex quam quidem quos mollitia labore aut sunt eius
-                ratione molestiae fuga veniam facere similique voluptate.
+                Highly experienced and knowledgeable in information technology, with an extensive background in project management, configuration, monitoring, and implementation of ICT environments. Contribute to the development of ITSM processes by implementing and reviewing work practices and making recommendations which lead to continuous improvement. Seeking to utilise these skills in the development of an appropriate and progressive career path.
                 </p>
                 <!-- Provide a link to your resume -->
                 <a href="#" class="btn">My Resume</a>
@@ -164,12 +161,10 @@ For changing the screenshot:
         <h2>Get in Touch</h2>
         <div class="contact__info">
           <p>
-            Are you looking for a fast-performing and user-friendly website to
-            represent your product or business? or looking for any kind of
-            consultation? or want to ask questions? or have some advice for me
-            or just want to say "Hi 👋" in any case feel free to Let me know. I
-            will do my best to respond back. 😊 The quickest way to reach out to
-            me is via an email.
+            Productive team player demostrating a strong, yet participative leadership style, providing a clear and effective direction, regular performance and development feedback.
+            Proven to be a mentor and trainer with an extensive background in information technology. Professionally acknowledged to build and maintain relationships in a large organisation, strong
+            data analytical, problem-solving skills with the capability of prioritising important tasks to provide accurate advice in relation to web-based systems in accordance with the relevant policy and procedures.
+            Committed to quality improvement, auditing, and provisioning in a team environment. Demonstrated ability to remain focused and attentive to detail on tasks; meet deadlines and targets in a timely manner.
           </p>
           <!-- Replace the email with yours -->
           <a href="mailto:you@example.com" class="btn">you@example.com</a>
@@ -189,22 +184,22 @@ For changing the screenshot:
         <!-- Update the links to point to your accounts -->
         <ul class="footer__social-links">
             <li class="footer__social-link-item">
-                <a href="https://twitter.com/nisarhassan12/">
+                <a href="https://twitter.com/charloncachuela/">
                     <img src="./images/twitter.svg" class="footer__social-image" alt="Twitter">
                 </a>
             </li>
             <li class="footer__social-link-item">
-                <a href="https://github.com/nisarhassan12/">
+                <a href="https://github.com/charloncachuela/">
                     <img src="./images/github.svg" class="footer__social-image" alt="Github">
                 </a>
             </li>
             <li class="footer__social-link-item">
-                <a href="https://codepen.io/nisar_hassan">
+                <a href="https://codepen.io/charlon_cachuela">
                     <img src="./images/codepen.svg" class="footer__social-image" alt="Codepen">
                 </a>
             </li>
             <li class="footer__social-link-item">
-                <a href=https://www.linkedin.com/in/nisar-hassan-naqvi-413466199/">
+                <a href=https://www.linkedin.com/in/charloncachuela/">
                     <img src="./images/linkedin.svg" class="footer__social-image" alt="Linkedin">
                 </a>
             </li>
